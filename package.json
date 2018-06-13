@@ -1,0 +1,15 @@
+{
+  "name": "apinode",
+  "version": "1.0.0",
+  "description": "This is my Node app from NextU",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Sandoval",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
