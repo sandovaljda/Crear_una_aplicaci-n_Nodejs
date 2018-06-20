@@ -1,3 +1,5 @@
+
+
 //-----FUNCIONES DEL DISEÑO ADAPTATIVO------//
 function isMobile(){
   var screenSize = screen.width;
