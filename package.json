@@ -11,5 +11,14 @@
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandovaljda/Crear_una_aplicaci-n_Nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sandovaljda/Crear_una_aplicaci-n_Nodejs/issues"
+  },
+  "homepage": "https://github.com/sandovaljda/Crear_una_aplicaci-n_Nodejs#readme"
 }
